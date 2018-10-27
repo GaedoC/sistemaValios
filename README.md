@@ -1,4 +1,4 @@
-# sistemaValios
+# Laravel
 Laravel PHP Framework
 Build Status Total Downloads Latest Stable Version Latest Unstable Version License
 
@@ -17,3 +17,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 License
 The Laravel framework is open-sourced software licensed under the MIT license
+
+
+
+
+Aplicacion 
+
+
+Requerimiento Funcional 
+- Login --> Acceso al mantenedor con usuario y clave
+- Perfilamiento --> Se deben manejar dos perfiles: administrador, el cual pueda hacer todo, y perfil de solo lectura
+- Registro y Eliminación de Usuarios de la aplicación -->  Formulario para ingreso de datos de los usuarios y que permita eliminarlos también
+- Registro de Promotores --> Formulario para ingreso de datos de los promotores
+- Edición de Promotores --> Formulario para modificación de datos de los promotores
+- Eliminación de Promotores--> Botón para eliminación del promotor
+- Búsqueda de Promotores --> Página con búsqueda por filtros de promotores y resultado de la búsqueda
+- Ficha de Promotores --> Información de los promotores
+- Reserva de Promotores --> Funcionalidad que permitirá reservar por día a los promotores
+- Modelo de Datos --> Diseño e implementación de la base de datos donde se registrará la información.
+- Diseño Gráfico --> El diseño gráfico será algo muy sencillo (Una vez que tenga los colores te los entrego)
